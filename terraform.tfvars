@@ -1,6 +1,6 @@
 vm_name             = "vmdemo"
 location            = "East us 2"
 resource_group_name = "myResourceGroup"
-vm_size             = "Standard_D4s_v4"
+vm_size             = "Standard_D2s_v3"
 subnet_name         = "subnet-1"
 vnet_name           = "vnet-dev"
