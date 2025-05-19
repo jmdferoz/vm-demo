@@ -1,4 +1,4 @@
-vm_name             = "vm demo"
+vm_name             = "vmdemo"
 location            = "East us 2"
 resource_group_name = "myResourceGroup"
 vm_size             = "Standard_D4s_v4"
