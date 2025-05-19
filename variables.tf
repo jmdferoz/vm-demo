@@ -4,3 +4,5 @@ variable "resource_group_name" {}
 variable "vm_size" {}
 variable "subnet_name" {}
 variable "vnet_name" {}
+variable "admin_username" {}
+variable "admin_password" {}
